@@ -1,0 +1,14 @@
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\bin\Debug\net6.0\Dice Rolling Lab.exe
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\bin\Debug\net6.0\Dice Rolling Lab.deps.json
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\bin\Debug\net6.0\Dice Rolling Lab.runtimeconfig.json
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\bin\Debug\net6.0\Dice Rolling Lab.dll
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\bin\Debug\net6.0\Dice Rolling Lab.pdb
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.AssemblyInfoInputs.cache
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.AssemblyInfo.cs
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.csproj.CoreCompileInputs.cache
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.dll
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\refint\Dice Rolling Lab.dll
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.pdb
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\Dice Rolling Lab.genruntimeconfig.cache
+C:\Users\Jake\class-dev\Projects\Dice Rolling Lab\obj\Debug\net6.0\ref\Dice Rolling Lab.dll
